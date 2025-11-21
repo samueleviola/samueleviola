@@ -22,14 +22,6 @@ I am a Data Scientist specializing in **Foundation AI Models**, **Computer Visio
 
 ---
 
-## ✨ Inspiration & Philosophy
-
-My approach to building intelligent systems is guided by a blend of practical implementation and theoretical curiosity:
-
-> *I am fascinated by the ability to distill complex reality into real structures, much like the theoretical work of **Carlo Rovelli**, and the commitment to making deep learning accessible and production-ready, exemplified by the engineering philosophy of **Andrej Karpathy**.*
-
----
-
 ## 🛠️ My Tech Stack & Skills
 
 My core focus is Python-based data engineering and AI model performance.
