@@ -11,8 +11,6 @@
 
 ## About Me
 
-I am a Data Scientist specializing in **Foundation AI Models**, **Computer Vision**, and transforming domain-specific knowledge into computational models. My expertise lies in building robust data pipelines and ensuring the quality and accuracy of intelligent systems.
-
 * **🎓 Education:** Master's Degree in Data Science (University of Trento) with a foundation with a Bachelor Degree in Cognitive Science .
 * **🔭 Current Role (AI & Vision):** I am involved in Data Analytics and AI implementations in Sport Technology. My work focuses on:
     * Defining **validation protocols and tools** for analyzing and improving **AI models** for event **detection and segmentation**.
@@ -22,9 +20,8 @@ I am a Data Scientist specializing in **Foundation AI Models**, **Computer Visio
 
 ---
 
-## 🛠️ My Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
-My core focus is Python-based data engineering and AI model performance.
 
 | Category | Skills & Tools |
 | :--- | :--- |
