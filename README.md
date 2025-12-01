@@ -11,16 +11,16 @@
 
 ## About Me
 
-* **🎓 Education:** Master's Degree in Data Science (University of Trento) with a foundation with a Bachelor Degree in Cognitive Science .
-* **🔭 Current Role (AI & Vision):** I am involved in Data Analytics and AI implementations in Sport Technology. My work focuses on:
+* ** Education:** Master's Degree in Data Science (University of Trento) with a foundation with a Bachelor Degree in Cognitive Science .
+* ** Current Role (AI & Vision):** I am involved in Data Analytics and AI implementations in Sport Technology. My work focuses on:
     * Defining **validation protocols and tools** for analyzing and improving **AI models** for event **detection and segmentation**.
     * Translating complex dynamics into **computational heuristics** for data validation.
     * Improving data quality through analysis, error identification, and implementing **corrections in Python**[cite: 18].
-* **🧠 Analytical Edge:** My background in Cognitive Psychology provides a unique perspective on data structure and logical reasoning, crucial for developing robust and **Explainable AI** systems.
+* ** Analytical Edge:** My background in Cognitive Psychology provides a unique perspective on data structure and logical reasoning, crucial for developing robust and **Explainable AI** systems.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 
 | Category | Skills & Tools |
@@ -33,7 +33,7 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 These projects showcase my technical breadth from big data engineering to specialized machine learning applications.
 
@@ -45,7 +45,7 @@ These projects showcase my technical breadth from big data engineering to specia
 
 ---
 
-## ✉️ Get in Touch
+##  Get in Touch
 
 I am open to discussing Data Science roles, collaborations on Computer Vision or XAI research, or anything related to data quality and model performance.
 
