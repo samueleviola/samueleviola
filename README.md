@@ -15,7 +15,7 @@
 * **Current Role (AI & Vision):** I am involved in Data Analytics and AI implementations in Sport Technology. My work focuses on:
     * Defining **validation protocols and tools** for analyzing and improving **AI models** for event **detection and segmentation**.
     * Translating complex dynamics into **computational heuristics** for data validation.
-    * Improving data quality through analysis, error identification, and implementing **corrections in Python**[cite: 18].
+    * Improving data quality through analysis, error identification, and implementing **corrections in Python**.
 
 
 ---
