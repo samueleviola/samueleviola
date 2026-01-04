@@ -11,7 +11,7 @@
 
 ## About Me
 
-* **Education:** Master's Degree in Data Science (University of Trento) with a foundation with a Bachelor Degree in Cognitive Science .
+* **Education:** Master's Degree in Data Science (University of Trento) with a foundation with a Bachelor Degree in Cognitive Science and Psychology.
 * **Current Role (AI & Vision):** I am involved in Data Analytics and AI implementations in Sport Technology. My work focuses on:
     * Defining **validation protocols and tools** for analyzing and improving **AI models** for event **detection and segmentation**.
     * Translating complex dynamics into **computational heuristics** for data validation.
@@ -27,9 +27,9 @@
 | :--- | :--- |
 | **Programming** | Python (Advanced), R, SQL |
 | **Data Science / ML** | Computer Vision, AI Model Validation, Machine Learning, Statistical Modeling (Regression), Quantitative Analysis |
-| **Core Expertise** | Data Cleaning & Transformation (Python, Pivot Tables), Protocol Definition, Computational Heuristics, Explainable AI (XAI) |
-| **Certifications** | Google Advanced Data Analytics  |
-| **Tools & Platforms** | Git / GitHub, Jamovi, Excel |
+| **Core Expertise** | Data Cleaning & Transformation, Computational Heuristics, Scalable pipelines|
+| **Certifications** | Google Advanced Data Analytics |
+| **Tools & Platforms** | Git / GitHub, Jamovi, Excel, Docker |
 
 ---
 
