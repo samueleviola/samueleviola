@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Samuele Viola</h1>
   
-  <h3>Data Scientist | AI Implementation & Computer Vision</h3>
+  <h3>Data Scientist
   
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-samuele--viola-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuele-viola-02ab9737a/) 
   [![Email Badge](https://img.shields.io/badge/Email-samueleviola.rm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samueleviola.rm@gmail.com)
@@ -12,7 +12,7 @@
 ## About Me
 
 * **Education:** Master's Degree in Data Science (University of Trento) with a foundation with a Bachelor Degree in Cognitive Science and Psychology.
-* **Current Role (AI & Vision):** I am involved in Data Analytics and AI implementations in Sport Technology. My work focuses on:
+* **Current Role (Data Science in Computer Vision):** I am involved in Data Analytics and AI implementations in Sport Technology. My work focuses on:
     * Defining **validation protocols and tools** for analyzing and improving **AI models** for event **detection and segmentation**.
     * Translating complex dynamics into **computational heuristics** for data validation.
     * Improving data quality through analysis, error identification, and implementing **corrections in Python**.
